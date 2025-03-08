@@ -43,7 +43,7 @@ export const getProduct = async (req, res) => {
   const { id } = req.params;
 
   try {
-    const product = sql`
+    const product = await sql`
       SELECT * FROM products 
       WHERE id=${id}
     `;

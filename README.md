@@ -2,15 +2,16 @@
 A PostgreSQL product store website build with reactjs and tailwindcss.
 
 # 💡About this project 
-...
+In this project it consists of Front-end and Back-end parts. This website is quitly basic store website. I learned PostgreSQL and really quickly made this website. This website occure CRUD application, like have a create, read, update and delete functionality. I created Back-end side with PostgreSQL technology.
 
 
 ## ⚡Technologies
 * `REACT JS`
 * `EXPRESS JS`
-* `TAILWINDCSS`
+* `POSTGRESQL`
 
 ## 🛠 Dependecies
+* `TAILWINDCSS`
 * `CORS`
 * `DOTENV`
 * `HELMET`

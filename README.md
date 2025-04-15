@@ -31,7 +31,7 @@ For the backend side follow these steps: ⬇️
 1. Run `cd postgres-product-store` should go folder field.
 2. Run `npm install` in the project directory to install the required dependencies.
 3. Run `npm run dev` to get the project started.
-4. Open [http://localhost:4000](http://localhost:3000) (or the address shown in your console) in your web browser to view the app.
+4. Open [http://localhost:3000](http://localhost:3000) (or the address shown in your console) in your web browser to view the app.
 
 For the frontend side follow these steps: ⬇️
 
